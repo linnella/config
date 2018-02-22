@@ -4,7 +4,7 @@ Config manager for admin
 ## Installation
 
 ```
-$ composer require linnella/config
+$ composer require linnella/config:dev-master
 
 $ php artisan migrate
 ```
